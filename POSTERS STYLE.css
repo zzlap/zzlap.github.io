@@ -207,13 +207,11 @@ TITLE
  */
 @font-face{
     font-family:"Semibold";
-    src: url( FONTS/coolvetica\ rg_74e8090722bb89f0ac5848a8f53621c3.ttf);
-    font-family:"Bold";
-    src: url( Fonts/);
+    src: url('https://raw.github.com/zzlap/zzlap.github.io/blob/main/FONTS/coolvetica%20rg_74e8090722bb89f0ac5848a8f53621c3.ttf');
 }
 @font-face{
     font-family:"Medium";
-    src: url( Fonts/Medium.otf);
+    src: url('https://github.com/zzlap/zzlap.github.io/blob/main/FONTS/Medium.otf');
 }
 
 .menubar{
