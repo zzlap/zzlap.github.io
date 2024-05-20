@@ -208,6 +208,8 @@ TITLE
 @font-face{
     font-family:"Semibold";
     src: url('https://raw.githubusercontent.com/zzlap/zzlap.github.io/blob/main/FONTS/coolvetica%20rg_74e8090722bb89f0ac5848a8f53621c3.ttf');
+    font-family:"Bold";
+    src: url( FONTS/CoolveticaRg-Bold.otf);
 }
 @font-face{
     font-family:"Medium";
@@ -260,23 +262,48 @@ TITLE
 }
 .butt{
 
-    font-family:'Medium';
-    font-size:17px;
+    font-family:'coolvetica';
+    font-size:21px;
+    letter-spacing: 1.1px;
+    font-weight: bold ;
     text-decoration:none;
-    color:rgb(5, 5, 5);
+    color:rgb(44, 9, 35);
     text-align:center;
-    margin-top:15px;
+    margin-top:13px;
 }
 .but{
 
-    font-family:'Medium';
-    font-size:17px;
+    font-family:'coolvetica';
+    font-size:20px;
+    letter-spacing: 1.1px;
+    font-weight: bold ;
     text-decoration:none;
-    color:rgb(5, 5, 5);
+    color:rgb(44, 9, 35);
     text-align:center;
-    margin-top:9px;
+    margin-top:13px;
 }
+.butt:hover{
 
+    font-family:'coolvetica';
+    font-size:20px;
+    letter-spacing: 1.1px;
+    font-weight: bold ;
+    text-decoration:none;
+    color:rgb(236, 223, 235);
+    text-align:center;
+    margin-top:13px;
+}
+.but:hover{
+
+    font-family:'coolvetica';
+    font-size:20px;
+    letter-spacing: 1.1px;
+    font-weight: bold ;
+    text-decoration:none;
+    color:rgb(236, 223, 235);
+    text-align:center;
+    margin-top:13px;
+}
 
 .posters{
     Height:100%;
