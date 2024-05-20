@@ -211,9 +211,7 @@ TITLE
 }
 @font-face{
     font-family:"Medium";
-    src: url('https://raw.githubusercontent.com/zzlap/zzlap.github.io/blob/main/FONTS/Medium.woff2');
-    font-weight: 100;
-    font-style:normal;
+    src: url( FONTS/AKONY.woff2);
 }
 
 .menubar{
