@@ -41,4 +41,11 @@ function openGosha() {
        
     }
 
+function openIGP() {
+        document.getElementById('presentation').src='PROJECTS/IGP_Decaux_Presentation.png';
+        document.getElementById('bluogo').style.display='none';
+        document.getElementById('presentation').style.display='block';
+       
+    }
+
 
